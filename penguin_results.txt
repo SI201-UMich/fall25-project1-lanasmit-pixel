@@ -1,0 +1,10 @@
+Average Body Mass by Species:
+Adelie: 3700.7 g
+Gentoo: 5076.0 g
+Chinstrap: 3733.1 g
+
+Percentage of Penguins Above Avg Flipper Length by Island:
+Torgersen: 3.9%
+Biscoe: 74.3%
+Dream: 17.7%
+
